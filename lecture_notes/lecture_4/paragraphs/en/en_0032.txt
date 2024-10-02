@@ -1,0 +1,1 @@
+Wikipedia has delegated some administrative functions to bots, such as when granting privileges to human editors. Such algorithmic governance has an ease of implementation and scaling, though the automated rejection of edits may have contributed to a downturn in active Wikipedia editors.[97] 

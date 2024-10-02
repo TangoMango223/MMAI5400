@@ -1,0 +1,1 @@
+.mw-parser-output .prononciation>a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Antu_audio-volume-medium.svg/11px-Antu_audio-volume-medium.svg.png")center left no-repeat}@media screen and
