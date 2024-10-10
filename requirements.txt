@@ -1,0 +1,9 @@
+# Set up installation in venv
+pandas
+numpy
+langchain
+langchain-community
+gensim 
+pyldavis
+spacy
+scipy
